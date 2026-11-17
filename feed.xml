@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DivertGuard: Drug Diversion Prevention Guides</title>
+  <subtitle>Guides on controlled substance diversion prevention for hospitals and pharmacies.</subtitle>
+  <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog"/>
+  <link rel="self" type="application/atom+xml" href="https://drugdiversionprevention.com/feed.xml"/>
+  <id>https://drugdiversionprevention.com/feed.xml</id>
+  <updated>2026-11-15T00:00:00Z</updated>
+  <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  <entry>
+    <title>The Three Controls That Catch Diversion Quickest</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/three-controls-that-catch-diversion-quickest"/>
+    <id>https://drugdiversionprevention.com/blog/three-controls-that-catch-diversion-quickest</id>
+    <published>2026-11-15T00:00:00Z</published>
+    <updated>2026-11-15T00:00:00Z</updated>
+    <category term="Program Design"/>
+    <summary>Short-cycle cross-system reconciliation, fast discrepancy resolution and a reporting route staff use, ranked from the one study that measured detection time (22 known cases, median 74 days faster) and the federal rules behind each, with the limits of that evidence stated.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>What a Diversion Investigation Actually Asks For</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/what-a-diversion-investigation-actually-asks-for"/>
+    <id>https://drugdiversionprevention.com/blog/what-a-diversion-investigation-actually-asks-for</id>
+    <published>2026-11-15T00:00:00Z</published>
+    <updated>2026-11-15T00:00:00Z</updated>
+    <category term="Program Design"/>
+    <summary>The records, interviews and filings an investigation requests in order: the five data sources a hospital audit reconciles, the 4 to 20 hours it can take, and the federal and state notification clocks that start at discovery.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Pharmacy Diversion Red Flags in 2026</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/pharmacy-diversion-red-flags-2026"/>
+    <id>https://drugdiversionprevention.com/blog/pharmacy-diversion-red-flags-2026</id>
+    <published>2026-11-15T00:00:00Z</published>
+    <updated>2026-11-15T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>Red flags sorted by where they appear (the prescription, the count, the staff), each tied to its federal rule, plus two 2026 caveats: the telemedicine extension and the Fifth Circuit's Neumann's Pharmacy decision.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>What Inspectors Ask First</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/what-inspectors-ask-first"/>
+    <id>https://drugdiversionprevention.com/blog/what-inspectors-ask-first</id>
+    <published>2026-11-15T00:00:00Z</published>
+    <updated>2026-11-15T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>The seven documents a DEA inspector can ask for first, the rule behind each (21 CFR 1301, 1304, 1306, 1316), and what a good answer looks like.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Maryland PA self-prescribing case: what it teaches</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/case-lesson-physician-assistant-self-prescribed-narcotic-analgesics"/>
+    <id>https://drugdiversionprevention.com/blog/case-lesson-physician-assistant-self-prescribed-narcotic-analgesics</id>
+    <published>2026-11-11T00:00:00Z</published>
+    <updated>2026-11-11T00:00:00Z</updated>
+    <category term="Real-World Cases"/>
+    <summary>A Maryland Board case: a physician assistant with opiate dependency filled prescriptions for himself. The prescriber-side control it exposes.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>What a DEA Inspection Actually Looks Like, From the Form 82 to the Closing Count</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/what-a-dea-inspection-actually-looks-like"/>
+    <id>https://drugdiversionprevention.com/blog/what-a-dea-inspection-actually-looks-like</id>
+    <published>2026-10-21T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>The visit in sequence: the Notice of Inspection, the consent you sign, what inspectors may and may not examine, the records they ask for in order, the accountability audit, and the close-out.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>CDS vs. Non-CDS Discrepancies: Same Missing Vial, Two Different Obligations</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/cds-vs-non-cds-discrepancy"/>
+    <id>https://drugdiversionprevention.com/blog/cds-vs-non-cds-discrepancy</id>
+    <published>2026-10-21T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Policy &amp; Practice"/>
+    <summary>What changes when a discrepancy involves a controlled substance, what does not, why state schedules matter, and why non-controlled losses still belong in a diversion program.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>How Drug Diversion Is Actually Caught: Tips, Audits, and the Patterns That Give It Away</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/how-drug-diversion-is-actually-caught"/>
+    <id>https://drugdiversionprevention.com/blog/how-drug-diversion-is-actually-caught</id>
+    <published>2026-10-21T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Program Design"/>
+    <summary>The three channels that surface diversion in practice, people, reconciliation and transaction data, what each catches and misses, and the sequence that turns a signal into a finding.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>What “Effective Controls” Means Under 21 CFR 1301.71: The 15 Factors, Read Closely</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/effective-controls-21-cfr-1301-71"/>
+    <id>https://drugdiversionprevention.com/blog/effective-controls-21-cfr-1301-71</id>
+    <published>2026-10-21T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>The security standard every diversion program rests on, paragraph by paragraph, with each of the fifteen factors DEA may weigh translated into what it means in a pharmacy or hospital.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Perpetual Inventory Pitfalls: Seven Ways a Running Balance Lies to You</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/perpetual-inventory-pitfalls"/>
+    <id>https://drugdiversionprevention.com/blog/perpetual-inventory-pitfalls</id>
+    <published>2026-10-21T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Policy &amp; Practice"/>
+    <summary>Federal law does not require a perpetual inventory, but almost every pharmacy keeps one. The seven ways it hides a loss, and the reconciliation routine that exposes each.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Red Flags in Controlled Substance Ordering: What Your Wholesaler Sees Before You Do</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/controlled-substance-ordering-red-flags"/>
+    <id>https://drugdiversionprevention.com/blog/controlled-substance-ordering-red-flags</id>
+    <published>2026-10-21T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Supply Chain"/>
+    <summary>Ordering patterns that signal internal diversion, what the suspicious order rule requires and of whom, and how to run the purchase-to-dispense review before a distributor asks you to.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Controlled Substance Discrepancies: Resolve Each One, Then Look for the Pattern</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/controlled-substance-counts-investigate-every-discrepancy-pa"/>
+    <id>https://drugdiversionprevention.com/blog/controlled-substance-counts-investigate-every-discrepancy-pa</id>
+    <published>2026-10-16T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>What to do when a count does not match, and how to trend every discrepancy by drug, shift and person so that a pattern of small losses is seen.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>DEA Power of Attorney for Form 222 and CSOS: 2026 Format and Rules</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/dea-power-of-attorney-form-222-csos"/>
+    <id>https://drugdiversionprevention.com/blog/dea-power-of-attorney-form-222-csos</id>
+    <published>2026-10-05T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>The power of attorney wording DEA amended on March 20, 2026: who may grant and revoke it, the format text, where to keep it, and the CSOS six-hour rule.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Why Return-to-Stock Reversals Deserve a Second Look</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/why-return-to-stock-reversals-deserve-a-second-look"/>
+    <id>https://drugdiversionprevention.com/blog/why-return-to-stock-reversals-deserve-a-second-look</id>
+    <published>2026-10-01T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>Before crediting a return to stock, verify the quantity and NDC match the original dispense — mismatches here are an easy, often-overlooked…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Turn Patient Complaints Into Diversion Red Flags</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/turn-patient-complaints-into-diversion-red-flags"/>
+    <id>https://drugdiversionprevention.com/blog/turn-patient-complaints-into-diversion-red-flags</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>Track complaints about pain not controlled despite documented doses, missing medication, or early refill denials by patient—clusters tied t…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Closing the ADC Reporting Blind Spot</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/closing-the-adc-reporting-blind-spot"/>
+    <id>https://drugdiversionprevention.com/blog/closing-the-adc-reporting-blind-spot</id>
+    <published>2026-09-28T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>If your ADC discrepancy reports sit unreviewed for days, resolution becomes guesswork. Require same-day review of overrides, cancels, and l…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Renewal Season Is a Diversion Blind Spot</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/renewal-season-is-a-diversion-blind-spot"/>
+    <id>https://drugdiversionprevention.com/blog/renewal-season-is-a-diversion-blind-spot</id>
+    <published>2026-09-26T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>DEA renewal deadlines can distract staff from routine counts and audits — schedule inventory reconciliation before and after the renewal wi…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Compounding Room Access Needs a Real Audit Trail</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/compounding-room-access-needs-a-real-audit-trail"/>
+    <id>https://drugdiversionprevention.com/blog/compounding-room-access-needs-a-real-audit-trail</id>
+    <published>2026-09-25T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>If anyone can enter the compounding room without a logged badge swipe or witness signature, controlled substance waste and overfill are eff…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Locking Down Pharmacy Tech Access to Controlled Substances</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/locking-down-pharmacy-tech-access-to-controlled-substances"/>
+    <id>https://drugdiversionprevention.com/blog/locking-down-pharmacy-tech-access-to-controlled-substances</id>
+    <published>2026-09-24T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>Pharmacy tech access should be role-based and time-bound; audit login and override activity weekly, and revoke access immediately upon role…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Auditing Post-Op Analgesia Orders for Diversion Signals</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/auditing-post-op-analgesia-orders-for-diversion-signals"/>
+    <id>https://drugdiversionprevention.com/blog/auditing-post-op-analgesia-orders-for-diversion-signals</id>
+    <published>2026-09-23T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>Compare post-op opioid orders against documented pain scores and procedure type; frequent overrides, early refills, or standing PRN orders…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>How to Report Drug Diversion: A Step-by-Step Guide for Healthcare Staff</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/how-to-report-drug-diversion"/>
+    <id>https://drugdiversionprevention.com/blog/how-to-report-drug-diversion</id>
+    <published>2026-09-21T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Program Design"/>
+    <summary>Who to tell, what to document, and when a report must reach the DEA — a practical reporting guide for pharmacy staff, nurses, and compliance officers.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Waste Documentation and Independent Witness Requirements</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/waste-documentation-and-independent-witness-requirements"/>
+    <id>https://drugdiversionprevention.com/blog/waste-documentation-and-independent-witness-requirements</id>
+    <published>2026-09-20T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>Wasting controlled substances alone, or with a witness who doesn't actually watch the syringe emptied and disposed of, defeats the control…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>How Long Does a DEA Investigation Take? Timeline &amp; What Happens</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/how-long-dea-investigation"/>
+    <id>https://drugdiversionprevention.com/blog/how-long-dea-investigation</id>
+    <published>2026-09-19T00:00:00Z</published>
+    <updated>2026-11-15T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>A realistic walkthrough of the DEA investigation timeline — from complaint or audit finding to referral, and what registrants should do during the process.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Closing ADC Reporting Gaps Before Diversion Takes Root</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/closing-adc-reporting-gaps-before-diversion-takes-root"/>
+    <id>https://drugdiversionprevention.com/blog/closing-adc-reporting-gaps-before-diversion-takes-root</id>
+    <published>2026-09-18T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>ADC override transactions left unreviewed create diversion blind spots. Learn how to implement a defined review timeframe and close reporting gaps.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Signs of Medication Diversion: 15 Red Flags for Pharmacy &amp; Nursing Leaders</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/signs-of-medication-diversion"/>
+    <id>https://drugdiversionprevention.com/blog/signs-of-medication-diversion</id>
+    <published>2026-09-17T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Program Design"/>
+    <summary>The behavioral, documentation, and inventory red flags that point to medication diversion — with a practical monitoring checklist.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>DEA Renewal Lapses: A Hidden Diversion Blind Spot</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/dea-renewal-lapses-a-hidden-diversion-blind-spot"/>
+    <id>https://drugdiversionprevention.com/blog/dea-renewal-lapses-a-hidden-diversion-blind-spot</id>
+    <published>2026-09-16T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>A lapsed DEA registration for any prescriber or the pharmacy itself can silently disable controlled substance ordering checks—verify renewa…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>What Is Drug Diversion in Healthcare? Definition, Examples &amp; Warning Signs</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/what-is-drug-diversion"/>
+    <id>https://drugdiversionprevention.com/blog/what-is-drug-diversion</id>
+    <published>2026-09-15T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Program Design"/>
+    <summary>The definition of drug diversion in hospitals and pharmacies, how it happens, who's typically involved, and the warning signs every program should monitor.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Compounding Room Accountability: Witness Every Waste Event</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/compounding-room-accountability-witness-every-waste-event"/>
+    <id>https://drugdiversionprevention.com/blog/compounding-room-accountability-witness-every-waste-event</id>
+    <published>2026-09-15T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>Require two staff to witness and sign every controlled-substance waste event in the compounding room—single-signature logs are the easiest…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Auditing Pharmacy Tech Access to Controlled Substances</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/auditing-pharmacy-tech-access-to-controlled-substances"/>
+    <id>https://drugdiversionprevention.com/blog/auditing-pharmacy-tech-access-to-controlled-substances</id>
+    <published>2026-09-14T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>Review pharmacy tech system permissions regularly — access should match current job duties, and any override or unlock privilege beyond tha…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>USP 795 Nonsterile Compounding: Diversion Risks in the Compounding Area</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/usp-795-diversion-guide"/>
+    <id>https://drugdiversionprevention.com/blog/usp-795-diversion-guide</id>
+    <published>2026-09-13T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Compounding"/>
+    <summary>How USP 795 nonsterile compounding workflows create diversion risk — and the controls that keep compounded preparations accountable.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Controlled Substance Recordkeeping: Every Document a DEA Audit Checks</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/recordkeeping-controlled-substances-guide"/>
+    <id>https://drugdiversionprevention.com/blog/recordkeeping-controlled-substances-guide</id>
+    <published>2026-09-11T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>The complete recordkeeping framework for controlled substances — inventory records, receiving/dispensing logs, transfer records, and the two-year retention rule.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Closing the Loop on Return-to-Stock Discrepancies</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/closing-the-loop-on-return-to-stock-discrepancies"/>
+    <id>https://drugdiversionprevention.com/blog/closing-the-loop-on-return-to-stock-discrepancies</id>
+    <published>2026-09-11T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>When a returned dose is credited back to inventory without a second verifier confirming vial, quantity, and condition match the original di…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Audit Witness Pairing Patterns to Close Waste Documentation Gaps</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/audit-witness-pairing-patterns-to-close-waste-documentation-"/>
+    <id>https://drugdiversionprevention.com/blog/audit-witness-pairing-patterns-to-close-waste-documentation-</id>
+    <published>2026-09-10T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>Collusion risk rises when the same two employees consistently pair for waste witnessing. Audit co-signer combinations routinely — identical…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>CSOS: Electronic Ordering of Schedule II Controlled Substances Explained</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/csos-electronic-ordering-guide"/>
+    <id>https://drugdiversionprevention.com/blog/csos-electronic-ordering-guide</id>
+    <published>2026-09-09T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="DEA Reporting"/>
+    <summary>How the Controlled Substance Ordering System (CSOS) replaces paper DEA Form 222 — certificates, digital signatures, supplier setup, and what to keep for the records.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Reverse Distribution of Controlled Substances: Returns Without the Diversion Risk</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/reverse-distribution-controlled-substances"/>
+    <id>https://drugdiversionprevention.com/blog/reverse-distribution-controlled-substances</id>
+    <published>2026-09-08T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>How to return expired or unusable controlled substances through DEA-registered reverse distributors — and where diversion risk hides in the returns process.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>DEA Form 41: How to Properly Destroy or Dispose of Controlled Substances</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/dea-form-41-destruction-guide"/>
+    <id>https://drugdiversionprevention.com/blog/dea-form-41-destruction-guide</id>
+    <published>2026-09-07T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="DEA Reporting"/>
+    <summary>When and how to use DEA Form 41 for disposal of unwanted, expired, or unusable controlled substances — including the destruction witness requirements and recordkeeping.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Drug Diversion in Ambulatory Surgery Centers: Closing the Gap With No Pharmacist On Site</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/asc-outpatient-surgery-diversion-gap"/>
+    <id>https://drugdiversionprevention.com/blog/asc-outpatient-surgery-diversion-gap</id>
+    <published>2026-09-06T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Program Design"/>
+    <summary>ASCs handle controlled substances with no on-site pharmacist, small teams, and often no separation of duties. How to close the waste-documentation and access gap in outpatient surgery settings.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Surviving a DEA Inspection: Audit Prep for Diversion Prevention Programs</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/dea-inspection-prep-diversion"/>
+    <id>https://drugdiversionprevention.com/blog/dea-inspection-prep-diversion</id>
+    <published>2026-09-05T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>What DEA investigators look for during a controlled substances inspection, and how to keep your diversion prevention program audit-ready.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>AI Drug Diversion Surveillance Isn't Self-Enforcing: Build the Alert-to-Action Workflow</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/ai-diversion-surveillance-alert-to-action"/>
+    <id>https://drugdiversionprevention.com/blog/ai-diversion-surveillance-alert-to-action</id>
+    <published>2026-09-04T00:00:00Z</published>
+    <updated>2026-11-15T00:00:00Z</updated>
+    <category term="Program Design"/>
+    <summary>STAT reported that hospital managers ignored machine-learning diversion alerts before a travel nurse diverted opioids. Why surveillance tools only work with triage, ownership, SLAs, and documented follow-through.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Telehealth Prescribing of Controlled Substances in 2026: Expiring Flexibilities and the Online Pharmacy Crackdown</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/telehealth-prescribing-2026-online-pharmacy-crackdown"/>
+    <id>https://drugdiversionprevention.com/blog/telehealth-prescribing-2026-online-pharmacy-crackdown</id>
+    <published>2026-09-03T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>The COVID telemedicine flexibilities expire Dec 31, 2026, DEA's special registration rule is still pending, and Operation Meltdown shut down 200+ illegal online pharmacies. What diversion teams must verify at the counter.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Corresponding Responsibility: The Pharmacist's Legal Duty to Spot Diversion</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/corresponding-responsibility-guide"/>
+    <id>https://drugdiversionprevention.com/blog/corresponding-responsibility-guide</id>
+    <published>2026-09-01T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>The legal duty that makes every pharmacist the last checkpoint against prescription drug diversion — and how to document it.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Blind Witnessing: A Hidden Gap in Waste Documentation</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/blind-witnessing-a-hidden-gap-in-waste-documentation"/>
+    <id>https://drugdiversionprevention.com/blog/blind-witnessing-a-hidden-gap-in-waste-documentation</id>
+    <published>2026-08-31T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>Blind witnessing — when a colleague signs off on waste without observing the disposal — is a common diversion gap. Confirm your policy…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Sole-Pharmacist Shifts and Diversion Risk: Lessons from the Lancaster, NH Case</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/sole-pharmacist-shift-diversion-risk"/>
+    <id>https://drugdiversionprevention.com/blog/sole-pharmacist-shift-diversion-risk</id>
+    <published>2026-08-31T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Real-World Cases"/>
+    <summary>A per-diem pharmacist pleaded guilty to diverting stimulants and benzodiazepines while working solo shifts at a New Hampshire pharmacy. What the case teaches about coverage, cameras, and shift-change counts.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>DSCSA and Diversion Prevention: How Track-and-Trace Strengthens Your Program</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/dscsa-diversion-prevention"/>
+    <id>https://drugdiversionprevention.com/blog/dscsa-diversion-prevention</id>
+    <published>2026-08-30T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Supply Chain"/>
+    <summary>The Drug Supply Chain Security Act's unit-level tracing, suspect product rules, and what they mean for controlled substance diversion programs.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>USP 800 Hazardous Drugs: Safe Handling Meets Diversion Prevention</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/usp-800-hazardous-drugs-diversion"/>
+    <id>https://drugdiversionprevention.com/blog/usp-800-hazardous-drugs-diversion</id>
+    <published>2026-08-28T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Compounding"/>
+    <summary>The overlap between hazardous drug handling standards and controlled substance diversion prevention in oncology and beyond.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Why Controlled Substance Count Reconciliation Stops Diversion Early</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/why-controlled-substance-count-reconciliation-stops-diversio"/>
+    <id>https://drugdiversionprevention.com/blog/why-controlled-substance-count-reconciliation-stops-diversio</id>
+    <published>2026-08-28T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>Unexplained count discrepancies — even small ones — can signal diversion. Review controlled substance count records daily and investigate…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Lapsed DEA Registrations: A Pharmacy Diversion Red Flag</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/lapsed-dea-registrations-a-pharmacy-diversion-red-flag"/>
+    <id>https://drugdiversionprevention.com/blog/lapsed-dea-registrations-a-pharmacy-diversion-red-flag</id>
+    <published>2026-08-27T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>Confirm prescriber DEA registrations are current before dispensing controlled substances. A lapsed registration may signal a provider who…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>USP 797 and Sterile Compounding: Where Diversion Hides in the IV Room</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/usp-797-sterile-compounding-diversion"/>
+    <id>https://drugdiversionprevention.com/blog/usp-797-sterile-compounding-diversion</id>
+    <published>2026-08-26T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Compounding"/>
+    <summary>How diversion happens in sterile compounding — high-value injectables, partial doses, and waste documentation gaps — and the controls that close it.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Audit Pharmacy Tech Access Controls to Catch Diversion Early</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/audit-pharmacy-tech-access-controls-to-catch-diversion-early"/>
+    <id>https://drugdiversionprevention.com/blog/audit-pharmacy-tech-access-controls-to-catch-diversion-early</id>
+    <published>2026-08-25T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Insights"/>
+    <summary>Pharmacy techs should each have unique credentials scoped to their role — shared logins eliminate individual accountability and make it…</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>DEA Form 222: Ordering Schedule II Controlled Substances — A Complete Guide</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/dea-222-order-form-guide"/>
+    <id>https://drugdiversionprevention.com/blog/dea-222-order-form-guide</id>
+    <published>2026-08-24T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>How DEA Form 222 works: obtaining forms, completing them correctly, CSOS electronic ordering, supplier requirements, and recordkeeping.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Anesthesia &amp; OR Drug Diversion: Prevention Strategies for High-Risk Settings</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/anesthesia-or-diversion-prevention"/>
+    <id>https://drugdiversionprevention.com/blog/anesthesia-or-diversion-prevention</id>
+    <published>2026-08-22T00:00:00Z</published>
+    <updated>2026-11-15T00:00:00Z</updated>
+    <category term="High-Risk Settings"/>
+    <summary>Why the operating room is a high-risk diversion environment, and the controls that reduce risk for anesthesia providers and perioperative teams.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Drug Diversion Surveillance Without Expensive Software: A SQL + Analytics Playbook</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/diversion-surveillance-sql-playbook"/>
+    <id>https://drugdiversionprevention.com/blog/diversion-surveillance-sql-playbook</id>
+    <published>2026-08-20T00:00:00Z</published>
+    <updated>2026-11-15T00:00:00Z</updated>
+    <category term="Analytics"/>
+    <summary>How to build practical diversion surveillance with the data you already have — SQL patterns for waste, overrides, and provider behavior.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>10 Components of a Drug Diversion Prevention Program</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/diversion-prevention-program-components"/>
+    <id>https://drugdiversionprevention.com/blog/diversion-prevention-program-components</id>
+    <published>2026-08-18T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Program Design"/>
+    <summary>The ten elements every credible drug diversion prevention program needs — from governance to surveillance to continuous improvement.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>DEA Warns of Electronic Prescription Fraud: Fake E-Scripts for Controlled Substances</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/dea-e-script-fraud-warning"/>
+    <id>https://drugdiversionprevention.com/blog/dea-e-script-fraud-warning</id>
+    <published>2026-08-17T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>The DEA has identified large-scale e-script fraud — tens of thousands of fake controlled-substance prescriptions filled using stolen clinician credentials. What pharmacists must verify and how to report it.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>DEA Form 106 vs. Preliminary Notification: The 1-Business-Day Rule Explained</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/dea-106-preliminary-notification"/>
+    <id>https://drugdiversionprevention.com/blog/dea-106-preliminary-notification</id>
+    <published>2026-08-16T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="DEA Reporting"/>
+    <summary>The two-step reporting framework for theft or significant loss of controlled substances — and why the one-business-day rule matters.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>PTCB CSDP Certificate: Study Guide &amp; Exam Prep for Pharmacy Technicians</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/ptcb-csdp-study-guide"/>
+    <id>https://drugdiversionprevention.com/blog/ptcb-csdp-study-guide</id>
+    <published>2026-08-14T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Certification"/>
+    <summary>Everything technicians need to know about the PTCB Controlled Substances Diversion Prevention Certificate — eligibility, exam format, and what to study.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Controlled Substance Waste &amp; Discrepancy Documentation: Policies That Pass Audits</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/waste-documentation-policies"/>
+    <id>https://drugdiversionprevention.com/blog/waste-documentation-policies</id>
+    <published>2026-08-12T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Policy &amp; Practice"/>
+    <summary>How to document medication waste, partial doses, and discrepancies so your diversion prevention program survives an audit.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>How to File DEA Form 106: A Step-by-Step Guide for Pharmacies</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/dea-106-step-by-step"/>
+    <id>https://drugdiversionprevention.com/blog/dea-106-step-by-step</id>
+    <published>2026-08-10T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="DEA Reporting"/>
+    <summary>When to file, the one-business-day preliminary notification rule, the 45-day deadline, and how to complete the form without common mistakes.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+  <entry>
+    <title>Controlled Substance Inventory Requirements: DEA Rules for Pharmacies Explained</title>
+    <link rel="alternate" type="text/html" href="https://drugdiversionprevention.com/blog/controlled-substance-inventory"/>
+    <id>https://drugdiversionprevention.com/blog/controlled-substance-inventory</id>
+    <published>2026-08-10T00:00:00Z</published>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <category term="Regulatory"/>
+    <summary>DEA biennial inventory requirements, what must be counted, when to count, and how to keep the records audit-ready.</summary>
+    <author><name>Alex Rodriguez</name><uri>https://drugdiversionprevention.com/author/alex-rodriguez</uri></author>
+  </entry>
+</feed>

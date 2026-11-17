@@ -1,0 +1,2 @@
+date,drug,strength,quantity_drawn,quantity_wasted,witness,destination,waste_method,reconciliation_reference
+EXAMPLE 2026-01-08,hydromorphone injection,2 mg/mL,1 mL,0.5 mL,EXAMPLE witness 0000,Unit drug disposal container,Disposal container per policy,EXAMPLE transaction 000000

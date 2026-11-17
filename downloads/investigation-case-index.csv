@@ -1,0 +1,2 @@
+case_id,opened_date,intake_source,unit,drug_category,lead_investigator,leadership_notified_date,compliance_notified_date,hr_notified_date,legal_notified_date,evidence_preserved_date,external_report_decision,status,outcome_category,corrective_action,closed_date
+EXAMPLE-2026-000,2026-02-02,Audit finding,EXAMPLE - 4 West,opioid injectable,EXAMPLE lead 0000,2026-02-02,2026-02-02,2026-02-03,2026-02-03,2026-02-02,Pending - decided by compliance officer,open,,,

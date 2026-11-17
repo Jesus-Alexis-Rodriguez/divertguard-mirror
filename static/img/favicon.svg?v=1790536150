@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img">
+<title>DivertGuard</title>
+<rect width="64" height="64" rx="16" fill="#0d6e6e"/>
+<path d="M32 8 L53 18 V35 C53 47 44 55 32 58 C20 55 11 47 11 35 V18 Z" fill="#F2F6F6"/>
+<path d="M22 33 L29 42 L43 23" fill="none" stroke="#0d6e6e" stroke-width="9"
+      stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

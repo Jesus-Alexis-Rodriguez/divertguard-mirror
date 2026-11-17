@@ -1,0 +1,2 @@
+unit,date,item,expected,counted,variance,investigator,root_cause,resolution,closed_date
+EXAMPLE - 4 West cabinet (fictional),2026-01-12,hydromorphone 2 mg/mL vial,10,9,-1,EXAMPLE reviewer 0000,Waste not recorded at the time of use,Late waste entry made with witness co-signature; staff member reminded of the waste step,2026-01-14

@@ -1,0 +1,2 @@
+user,date,time,drug,quantity,override_reason,order_match,witness,reviewer,disposition,disposition_date
+EXAMPLE - user 0000 (fictional),2026-01-05,02:14,morphine 4 mg/mL syringe,2 syringes,"Pain emergency, order not yet verified",N,n/a,EXAMPLE reviewer 0000,Explained - order entered and verified later,2026-01-06
